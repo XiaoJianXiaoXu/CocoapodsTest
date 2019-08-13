@@ -8,5 +8,7 @@
 #import "DXColor.h"
 
 @implementation DXColor
-
+- (void)color {
+    NSLog(@"ds-s-f-sd-f");
+}
 @end
