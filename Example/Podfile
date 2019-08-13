@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CCPods_Tests' do
+  pod 'CCPods', :path => '../'
+  
+  
+end
